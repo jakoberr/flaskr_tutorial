@@ -1,4 +1,4 @@
-#!/Users/Jakob/Coding/flaskfiddle/venv/bin/python
+#!/Users/Jakob/Coding/flaskr/venv/bin/python
 
 import sys
 import getopt
